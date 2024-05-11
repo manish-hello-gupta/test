@@ -1,4 +1,4 @@
 # test
 This is my first repository.
 <br>
-Author - Manish gupta
+Author - Manish Gupta
